@@ -1,1 +1,1 @@
-include ':emaillibs'
+include ':emaillibs', ':instantapp'
