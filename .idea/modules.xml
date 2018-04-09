@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/Emaillibs.iml" filepath="$PROJECT_DIR$/Emaillibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/emaillibs/emaillibs.iml" filepath="$PROJECT_DIR$/emaillibs/emaillibs.iml" />
       <module fileurl="file://$PROJECT_DIR$/emaillibs/emaillibs.iml" filepath="$PROJECT_DIR$/emaillibs/emaillibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/instantapp/instantapp.iml" filepath="$PROJECT_DIR$/instantapp/instantapp.iml" />
     </modules>
   </component>
 </project>
