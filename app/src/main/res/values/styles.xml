@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+        <item name="colorPrimary">@color/colorPrimary</item> <!-- actionbar颜色 -->
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item> <!-- 状态栏颜色 -->
+        <item name="colorAccent">@color/colorAccent</item> <!-- 控件默认颜色,如进度条 -->
+    </style>
+</resources>
